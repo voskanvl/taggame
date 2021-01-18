@@ -36,7 +36,7 @@ body {
   transition: 500ms;
   cursor: crosshair;
 }
-.item:hover {
+.can-go:hover {
   -webkit-text-stroke: #000 0px;
   box-shadow: var(--shift-hover) var(--shift-hover) var(--shift-hover) black,
     var(--shift-minus-hover) var(--shift-minus-hover) var(--shift-hover) white,
